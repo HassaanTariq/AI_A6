@@ -37,4 +37,4 @@ Suggested Vercel settings:
 - index.html: UI layout
 - style.css: visual design
 - app.js: world simulation, KB, CNF rules, resolution engine
-- report.md: project report content (convert to PDF for submission)
+
