@@ -38,7 +38,3 @@ Suggested Vercel settings:
 - style.css: visual design
 - app.js: world simulation, KB, CNF rules, resolution engine
 - report.md: project report content (convert to PDF for submission)
-
-## Notes for submission
-- Create a PDF from report.md and add your links on the first page.
-- Zip the entire project using the required naming format.
